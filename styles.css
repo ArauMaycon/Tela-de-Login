@@ -1,0 +1,57 @@
+body {
+   background: linear-gradient(to left, red, blue)
+}
+
+.card {
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    border: solid 2px rgba(0, 0, 0, 0.164);
+    margin: 0% auto;
+    margin-top: 30px;
+    border-radius: 30px;
+   }
+img {
+   width: 200px;
+   height: 200px;
+   padding: 50px;
+   border-radius: 150px;
+}
+
+.email {
+   width: 230px;
+}
+
+.password {
+   width: 230px;
+}
+
+
+input {
+   outline: none;
+   border: none;
+  outline: none;
+   opacity: 0.5;
+   
+}
+
+ a {
+      color: black;
+      padding: 18px;
+      text-decoration: none;
+   }
+
+
+
+#check {
+   padding: 20px;
+}
+
+.btn {
+   width: 230px;
+   height: 30px;
+   border-radius: 30px;
+   opacity: 0.5;
+   background-color: linear-gradient(to left, red, blue);
+   
+}
